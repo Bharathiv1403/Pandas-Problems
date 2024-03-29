@@ -24,23 +24,3 @@ for _ in range ((len(data.axes[0])+1)//10):
     row_end+=10
 
     print("**************************************************************************************************** \n ****************************************************************************************************")
-
-
-
-
-# row_count = len(data)
-# print(row_count)
-# shape = data.shape 
-# print(shape)
-
-
-# df1 = data.iloc[:, 0:n].head(m)
-# print(df1)
-
-# for i in range(len(df1)):
-#     print(i)
-# print(df1)
-# df=pd.DataFrame(df1)
-
-
-
